@@ -12,7 +12,7 @@ var cors = require('cors');
 var app = express();
 
 var corsOptions = {
-    origin: 'http://localhost:4000'
+    origin: 'https://simple-todolist-mern.netlify.app/'
   }
 
 app.use(cors(corsOptions));
