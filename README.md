@@ -32,3 +32,14 @@ To start the server with `nodemon` :
 ``` bash
 $ npm run dev
 ```
+
+## Screenshots 
+### `GET` data.
+![image info](./screenshots/screenshot-1-img.png)
+### `POST` the entry.
+![image info](./screenshots/screenshot-2-img.png)
+### entry posted.
+![image info](./screenshots/screenshot-3-img.png)
+### `GET` to confirm data entry.
+![image info](./screenshots/screenshot-4-img.png)
+
