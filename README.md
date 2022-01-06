@@ -11,12 +11,14 @@ A simple server using MongoDB and ExpressJs
 ---
 
 ## Prerequisites 
-*    NodeJS
-*    MongoDB
+*    [NodeJS](https://nodejs.org/en/)
+*    [MongoDB](https://www.mongodb.com/atlas/database)
+
+## Tools
+*    [Postman](https://www.postman.com/downloads/)
 
 ## Setup 
 ### Install dependencies 
-
 ``` bash
 $ npm install
 ```
