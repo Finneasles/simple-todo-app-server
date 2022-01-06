@@ -1,0 +1,7 @@
+{
+    "name": "simple-mern-todo-app-server",
+    "description": "A barebones Node.js app using Express, React , MongoDB and NodeJS",
+    "repository": "https://github.com/finneasles/simple-mern-todo-app-server",
+    "logo": "https://node-js-sample.herokuapp.com/images/logo192.png",
+    "keywords": ["node","react", "express", "mongodb"]
+  }
