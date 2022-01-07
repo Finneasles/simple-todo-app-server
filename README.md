@@ -6,6 +6,26 @@ A simple server using MongoDB and ExpressJS
 
 ---
  
+ 
+## Screenshots 
+
+![Get data screenshot](./screenshots/screenshot-1-img.png)
+*`GET` data*
+
+
+![Post screenshot](./screenshots/screenshot-2-img.png)
+*`POST` the entry*
+
+
+![Entry results screenshot](./screenshots/screenshot-3-img.png)
+*entry posted*
+
+
+![Confirmation get screenshot](./screenshots/screenshot-4-img.png)
+*`GET` to confirm data entry*
+
+---
+
 ## Prerequisites 
 *    [NodeJS](https://nodejs.org/en/)
 *    [MongoDB](https://www.mongodb.com/atlas/database)
@@ -39,24 +59,3 @@ $ npm run dev
 ``` bash
 $ npm start
 ```
-
- 
----
-
-## Screenshots 
-
-![Get data screenshot](./screenshots/screenshot-1-img.png)
-*`GET` data*
-
-
-![Post screenshot](./screenshots/screenshot-2-img.png)
-*`POST` the entry*
-
-
-![Entry results screenshot](./screenshots/screenshot-3-img.png)
-*entry posted*
-
-
-![Confirmation get screenshot](./screenshots/screenshot-4-img.png)
-*`GET` to confirm data entry*
-
