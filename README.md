@@ -1,14 +1,13 @@
-
-
-
-A simple server using MongoDB and ExpressJs
+A simple server using MongoDB and ExpressJS
 ==============
+### [Live Endpoint](https://simple-mern-todo-app.herokuapp.com/api/todos) | [Client Repo](https://github.com/Finneasles/simple-mern-todo-app-client)
 
-## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) [Live Endpoint](https://simple-mern-todo-app.herokuapp.com/api/todos) | [Client Repo](https://github.com/Finneasles/simple-mern-todo-app-client)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
  <br />
 
 ---
+
  <br />
  
 ## Prerequisites 
@@ -67,7 +66,7 @@ $ npm run dev
 
  <br />
 
- 
+
 ![Confirmation get screenshot](./screenshots/screenshot-4-img.png)
 *`GET` to confirm data entry*
 
