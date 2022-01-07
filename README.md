@@ -10,6 +10,10 @@ A simple server using MongoDB and ExpressJS
 *    [NodeJS](https://nodejs.org/en/)
 *    [MongoDB](https://www.mongodb.com/atlas/database)
 
+## Technologies 
+*    [Mongoose](https://www.npmjs.com/package/mongoose)
+*    [ExpressJS](https://expressjs.com/)
+
 
 ## Tools
 *    [Postman](https://www.postman.com/downloads/)
