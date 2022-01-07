@@ -4,7 +4,7 @@ A simple server using MongoDB and ExpressJS
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
- <br />
+---
  
 ## Prerequisites 
 *    [NodeJS](https://nodejs.org/en/)
