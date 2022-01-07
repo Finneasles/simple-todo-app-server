@@ -23,18 +23,19 @@ $ npm install
  
 ---
 
-## Production & Development 
-To start the server :
-### Production
-``` bash
-$ npm start
-```
- 
-To start the server with `nodemon` :
+## Run the server
+To start the server using the following command :
+
 ### Development
 ``` bash
 $ npm run dev
 ```
+
+### Production
+``` bash
+$ npm start
+```
+
  
 ---
 
