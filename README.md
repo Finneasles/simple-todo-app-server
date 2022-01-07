@@ -1,6 +1,6 @@
 A simple server using MongoDB and ExpressJS
 ==============
-### [Live Endpoint](https://simple-mern-todo-app.herokuapp.com/api/todos) | [Client Repository](https://github.com/Finneasles/simple-mern-todo-app-client)
+### [Live Endpoint](https://simple-mern-todo-app.herokuapp.com/api/todos) | [Client Repository](https://github.com/Finneasles/simple-todo-app-client)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
